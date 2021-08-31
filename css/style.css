@@ -1,0 +1,43 @@
+.topbg{
+    /* background-color: #08356B; */
+    background-image: linear-gradient(#182C61,#3B3B98);
+    background-repeat: no-repeat;
+    color: white;
+}
+
+
+.navText{
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navText:hover{
+    color: #25A45F;
+}
+
+.titleFont{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.badgeImage{
+    max-height: 200px;
+}
+
+.badgeTitle{
+    color: #08356B;
+    font-weight: bold;
+}
+
+.dealBreaker{
+    background-image: linear-gradient(#ED4C67,#6D214F);
+    background-repeat: none;
+    height: 100vh;
+    width: 98.15vw;
+}
+
+.lordHouse{
+    background-image: url(/img/lordhouse.jpg);
+    background-repeat: none;
+}
